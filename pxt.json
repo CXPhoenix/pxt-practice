@@ -1,0 +1,16 @@
+﻿{
+    "name": "practice",
+    "version": "0.0.1",
+    "description": "Practice extension blocks for makecode.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/practice-strings.json"
+    ],
+    "public": true
+}

@@ -1,0 +1,4 @@
+﻿{
+    "practice|block": "伺服馬達轉動",
+    "practice.servoMovement|block": "伺服馬達 引腳 %AnalogPin|從 %angle1|度到 %angle2|度 經歷 %times 秒"
+}
